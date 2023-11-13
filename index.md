@@ -18,6 +18,7 @@ Free
 
 * Chia-Min Chung (Natl. Sun Yat-sen Univ.)
 * Ian McCulloch (Natl. Tsing Hua Univ.)
+* Satoshi Morita (Keio Univ.)
 * Synge Todo (Univ. of Tokyo)
 * Wei-Lin Tu (Keio Univ.)
 * Yi-Ping Huang (Natl. Tsing Hua Univ.)
